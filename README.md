@@ -1,2 +1,3 @@
 # js
-Stuy
+Study
+Ashish bhaliya https/.
